@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+   <key>PayloadContent</key>
+   <array>
+     <dict>
+       <key>PayloadType</key>
+       <string>com.apple.springboard.statusbar</string>
+       <key>PayloadVersion</key>
+       <integer>1</integer>
+       <key>PayloadIdentifier</key>
+       <string>com.mdubois.demo.statusbaroverride</string>
+       <key>PayloadUUID</key>
+       <string>67335DD2-3C26-421C-84C9-39B448C56602</string>
+       <key>PayloadDisplayName</key>
+       <string>Status Bar Overrides</string>
+       <key>StatusBarOverrides</key>
+       <dict>
+         <key>TimeString</key>
+         <string>9:41 AM</string>
+         <key>BatteryLevel</key>
+         <integer>100</integer>
+         <key>BatteryState</key>
+         <string>BatteryStateFull</string>
+         <key>CellularSignalStrengthBars</key>
+         <integer>4</integer>
+         <key>WiFiSignalStrengthBars</key>
+         <integer>3</integer>
+         <key>ServiceSubscriberName</key>
+         <string>DemoCo</string>
+       </dict>
+     </dict>
+   </array>
+   <key>PayloadType</key>
+   <string>Configuration</string>
+   <key>PayloadVersion</key>
+   <integer>1</integer>
+   <key>PayloadIdentifier</key>
+   <string>com.mdubois.demo</string>
+   <key>PayloadUUID</key>
+   <string>D7E79585-1006-4A6C-AB67-D4D4EFAF1A25</string>
+   <key>PayloadDisplayName</key>
+   <string>Demo Status Bar Profile</string>
+   <key>PayloadOrganization</key>
+   <string>Your Company</string>
+ </dict>
+</plist>
